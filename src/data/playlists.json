@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Ambient Psychedelic Journey",
+    "description": "A real Spotify playlist you can embed — immersive ambient music.",
+    "tags": ["Psilocybin", "Ambient", "⭐ Recommended"],
+    "platforms": {
+      "Spotify": "https://open.spotify.com/playlist/0YizqBuL8K7fiXN8DMZSb3"
+    }
+  },
+  {
+    "title": "Mystic Meditation Set",
+    "description": "Curated YouTube playlist for introspection and emotional depth.",
+    "tags": ["LSD", "Meditation", "🔥 Editor’s Pick"],
+    "platforms": {
+      "YouTube": "https://www.youtube.com/watch?list=RDQMhg-hQfuk4vU"
+    }
+  },
+  {
+    "title": "External Only Example",
+    "description": "No embeddable link, only Apple Music external link.",
+    "tags": ["MDMA", "Neo-Classical"],
+    "platforms": {
+      "Apple Music": "https://music.apple.com/us/album/mystic-album/1647225456"
+    }
+  },
+   {
+    "title": "Otherworld Vibes",
+    "description": "From an unknown external platform. Still worth the trip.",
+    "tags": ["Ayahuasca", "World", "🔥 Editor’s Pick"],
+    "platforms": {
+      "OtherPlatform": "https://example.com/playlist/otherworld-vibes"
+    }
+  }
+]
